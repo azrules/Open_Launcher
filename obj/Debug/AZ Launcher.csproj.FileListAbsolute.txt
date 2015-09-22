@@ -1,0 +1,9 @@
+C:\Users\AZ\Source\Repos\WebRC\WS\WS-Server\AZ Launcher\AZ Launcher\bin\Debug\AZ Launcher.exe.config
+C:\Users\AZ\Source\Repos\WebRC\WS\WS-Server\AZ Launcher\AZ Launcher\bin\Debug\AZ Launcher.exe
+C:\Users\AZ\Source\Repos\WebRC\WS\WS-Server\AZ Launcher\AZ Launcher\bin\Debug\AZ Launcher.pdb
+C:\Users\AZ\Source\Repos\WebRC\WS\WS-Server\AZ Launcher\AZ Launcher\obj\Debug\AZ Launcher.csprojResolveAssemblyReference.cache
+C:\Users\AZ\Source\Repos\WebRC\WS\WS-Server\AZ Launcher\AZ Launcher\obj\Debug\AZ_Launcher.Form1.resources
+C:\Users\AZ\Source\Repos\WebRC\WS\WS-Server\AZ Launcher\AZ Launcher\obj\Debug\AZ_Launcher.Properties.Resources.resources
+C:\Users\AZ\Source\Repos\WebRC\WS\WS-Server\AZ Launcher\AZ Launcher\obj\Debug\AZ Launcher.csproj.GenerateResource.Cache
+C:\Users\AZ\Source\Repos\WebRC\WS\WS-Server\AZ Launcher\AZ Launcher\obj\Debug\AZ Launcher.exe
+C:\Users\AZ\Source\Repos\WebRC\WS\WS-Server\AZ Launcher\AZ Launcher\obj\Debug\AZ Launcher.pdb
